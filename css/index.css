@@ -243,6 +243,7 @@ aside{
     height: 30px;
     float: left;
     cursor: pointer;
+    border-radius: 50%;
 }
 /*Top*/
 .Tip{
